@@ -1,7 +1,7 @@
-Course MVC 2021
+Kmom05
 ==========
 
-Kmom05
+ORM
 -------------
 
 Adding ORM to symfony project
