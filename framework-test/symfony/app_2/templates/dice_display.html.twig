@@ -1,0 +1,10 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <h1>Dice</h1>
+
+    <p>Display dices here </p>
+
+    {{ die.roll() }}
+    {{ die.getLastRoll }}
+{% endblock %}
